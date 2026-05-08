@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [comfyrun](./comfyrun)
+- [download_repair](./download_repair)
 - [file](./file)
 - [mvrwkgj96lkua](./mvrwkgj96lkua)
 - [python-3.12.10-amd64](./python-3.12.10-amd64)
