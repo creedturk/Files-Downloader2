@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charSet="utf-8"/>
+  <meta httpEquiv="x-ua-compatible" content="ie=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#0070F0"/>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="robots" content="noindex"/>
+  <meta name="googlebot" content="noindex"/>
+  <meta property="og:title" content="MediaFire"/>
+  <meta property="twitter:title" content="MediaFire"/>
+  <meta property="og:description" content="File sharing and storage made simple"/>
+  <meta property="twitter:description" content="File sharing and storage made simple"/>
+  <meta property="og:image" content="http://www.mediafire.com/images/logos/mf_logo250x250.png"/>
+  <meta property="twitter:image" content="http://www.mediafire.com/images/mf_logo50x50.png"/>
+  <link rel="apple-touch-icon" sizes="57x57" href="/meta/apple-touch-icon-57x57.png"/>
+  <link rel="apple-touch-icon" sizes="60x60" href="/meta/apple-touch-icon-60x60.png"/>
+  <link rel="apple-touch-icon" sizes="72x72" href="/meta/apple-touch-icon-72x72.png"/>
+  <link rel="apple-touch-icon" sizes="76x76" href="/meta/apple-touch-icon-76x76.png"/>
+  <link rel="apple-touch-icon" sizes="114x114" href="/meta/apple-touch-icon-114x114.png"/>
+  <link rel="apple-touch-icon" sizes="120x120" href="/meta/apple-touch-icon-120x120.png"/>
+  <link rel="apple-touch-icon" sizes="144x144" href="/meta/apple-touch-icon-144x144.png"/>
+  <link rel="apple-touch-icon" sizes="152x152" href="/meta/apple-touch-icon-152x152.png"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="/meta/apple-touch-icon-180x180.png"/>
+  <link rel="icon" type="image/png" href="/meta/favicon-32x32.png" sizes="32x32"/>
+  <link rel="icon" type="image/png" href="/meta/android-chrome-192x192.png" sizes="192x192"/>
+  <link rel="icon" type="image/png" href="/meta/favicon-96x96.png" sizes="96x96"/>
+  <link rel="icon" type="image/png" href="/meta/favicon-16x16.png" sizes="16x16"/>
+  <link rel="mask-icon" href="/meta/safari-pinned-tab.svg" color="#0070F0"/>
+  <link rel="shortcut icon" href="/meta/favicon.ico"/>
+  <title>MediaFire - File sharing and storage made simple</title>
+  <style>
+    html {
+      height: 100%;
+      font-family: sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      overscroll-behavior-y: auto;
+      overscroll-behavior-x: none;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%;
+    }
+
+    body {
+      margin: 0;
+      height: 100%;
+      background-color: #282F3D;
+      scrollbar-width: thin;
+      scrollbar-color: #555 #EEE;
+      -webkit-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none;
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+      body {
+        overflow: hidden;
+      }
+    }
+
+    #root {
+      display: flex;
+      height: 100%;
+      width: 100%;
+    }
+
+    a {text-decoration: none}
+    svg {display: block}
+
+    .text-link:hover {
+      text-decoration: underline;
+    }
+
+    [type=file] {
+      opacity: 0;
+      z-index: 1;
+      outline: none;
+    }
+
+    [type=file],
+    [type=file] + label {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+      padding: 1px;
+      box-sizing: content-box;
+      margin: -1px;
+      outline: none;
+    }
+
+    [type=file]:focus + label {
+      outline: none;
+    }
+
+    ::-moz-selection {
+      color: white;
+      background: #0070F0;
+    }
+
+    ::-webkit-selection {
+      color: white;
+      background: #0070F0;
+    }
+
+    ::selection {
+      color: white;
+      background: #0070F0;
+    }
+/*
+    ::-webkit-scrollbar {
+      background-color: #202324;
+      color: #aba499;
+    }
+    ::-webkit-scrollbar-thumb {
+      background-color: #454a4d;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background-color: #575e62;
+    }
+    ::-webkit-scrollbar-thumb:active {
+      background-color: #484e51;
+    }
+    ::-webkit-scrollbar-corner {
+      background-color: #181a1b;
+    }
+*/
+  </style>
+  <script nomodule src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=default%2Ces2015%2Ces2016%2Ces2017%2Ces2018%2Ces2019%2Cfetch"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PZYNX62DRR"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-829541-16"></script>
+  <script>
+    try {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "G-PZYNX62DRR", {"app_name": "myFiles", "transport_type": "beacon"});
+      gtag("config", "UA-829541-16", {"app_name": "mfv2", "transport_type": "beacon"});
+    } catch(e) {}
+  </script>
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "cge564bemo");
+  </script>
+  <script type="module" crossorigin src="/assets/index-ZveEMmJs.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-Dt7KHmPy.css">
+</head>
+<body>
+  <div id="root"></div>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f843a5c6f6d2902',t:'MTc3ODE5ODg4NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
