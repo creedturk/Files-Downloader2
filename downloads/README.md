@@ -10,6 +10,7 @@
 - [rocm_sdk_core-7.12.0.dev0-py3-none-win_amd64](./rocm_sdk_core-7.12.0.dev0-py3-none-win_amd64)
 - [rocm_sdk_devel-7.12.0.dev0-py3-none-win_amd64](./rocm_sdk_devel-7.12.0.dev0-py3-none-win_amd64)
 - [rocm_sdk_libraries_gfx103x_all-7.12.0.dev0-py3-none-win_amd64](./rocm_sdk_libraries_gfx103x_all-7.12.0.dev0-py3-none-win_amd64)
+- [torch-2.10.0%2Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64](./torch-2.10.0%252Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64)
 - [vs_BuildTools](./vs_BuildTools)
 
 ---
