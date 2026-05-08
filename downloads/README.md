@@ -9,6 +9,7 @@
 - [rocm-7.12.0.dev0](./rocm-7.12.0.dev0)
 - [rocm_sdk_core-7.12.0.dev0-py3-none-win_amd64](./rocm_sdk_core-7.12.0.dev0-py3-none-win_amd64)
 - [rocm_sdk_devel-7.12.0.dev0-py3-none-win_amd64](./rocm_sdk_devel-7.12.0.dev0-py3-none-win_amd64)
+- [rocm_sdk_libraries_gfx103x_all-7.12.0.dev0-py3-none-win_amd64](./rocm_sdk_libraries_gfx103x_all-7.12.0.dev0-py3-none-win_amd64)
 - [vs_BuildTools](./vs_BuildTools)
 
 ---
