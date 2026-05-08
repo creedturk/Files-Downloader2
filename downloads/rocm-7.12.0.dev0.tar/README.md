@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `rocm-7.12.0.dev0.tar.gz` |
-| **Size** | .31 MB |
+| **Size** | .21 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
