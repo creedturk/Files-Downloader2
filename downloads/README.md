@@ -14,6 +14,7 @@
 - [torch-2.10.0%2Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64](./torch-2.10.0%252Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64)
 - [torchaudio-2.10.0%2Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64](./torchaudio-2.10.0%252Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64)
 - [torchvision-0.25.0%2Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64](./torchvision-0.25.0%252Bdevrocm7.12.0.dev0-cp312-cp312-win_amd64)
+- [video_360p](./video_360p)
 - [vs_BuildTools](./vs_BuildTools)
 
 ---
