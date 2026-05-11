@@ -3,6 +3,7 @@
 - [ACE-Step-1.5](./ACE-Step-1.5)
 - [Qwen3-Embedding-0](./Qwen3-Embedding-0)
 - [all_links](./all_links)
+- [archive_20260511_215903](./archive_20260511_215903)
 - [model](./model)
 
 ---
