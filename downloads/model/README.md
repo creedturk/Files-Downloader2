@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `model.safetensors` |
-| **Total Size** | **63 parts** - **2803.36 MB** |
+| **Total Size** | **81 parts** - **3616.83 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -79,7 +79,25 @@
 | 60 | `model.z60` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z60) |
 | 61 | `model.z61` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z61) |
 | 62 | `model.z62` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z62) |
-| 63 | `model.zip` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.zip) |
+| 63 | `model.z63` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z63) |
+| 64 | `model.z64` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z64) |
+| 65 | `model.z65` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z65) |
+| 66 | `model.z66` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z66) |
+| 67 | `model.z67` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z67) |
+| 68 | `model.z68` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z68) |
+| 69 | `model.z69` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z69) |
+| 70 | `model.z70` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z70) |
+| 71 | `model.z71` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z71) |
+| 72 | `model.z72` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z72) |
+| 73 | `model.z73` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z73) |
+| 74 | `model.z74` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z74) |
+| 75 | `model.z75` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z75) |
+| 76 | `model.z76` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z76) |
+| 77 | `model.z77` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z77) |
+| 78 | `model.z78` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z78) |
+| 79 | `model.z79` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z79) |
+| 80 | `model.z80` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.z80) |
+| 81 | `model.zip` | [Download](https://github.com/TurkCreed/Files-Downloader/raw/main/downloads/model/model.zip) |
 
 ---
 
