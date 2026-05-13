@@ -9,6 +9,7 @@
 - [archive_20260512_220855](./archive_20260512_220855)
 - [archive_20260513_012800](./archive_20260513_012800)
 - [model](./model)
+- [qwen_0.6b_ace15](./qwen_0.6b_ace15)
 
 ---
 
